@@ -20,8 +20,9 @@ img:hover {
 h1 {
     font-family: 'BioRhyme Expanded', serif;
     font-size: 3em;
-    border-bottom: 2px solid black;
-    border-right: 2px solid black;
+    /* border-bottom: 2px solid black; */
+    /* border-right: 2px solid black; */
     width: 400px;
     text-align: center;
+    box-shadow: 4px 4px 5px #888;
 }
